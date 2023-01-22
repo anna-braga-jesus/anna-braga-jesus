@@ -1,8 +1,9 @@
 Olá!  Eu sou a Anna Carolina Braga 👋
 
-- 🌱 Estudando Javascript e React
-- 📫 Contate-me no email: annajesus.nave@gmail.com
 - 😄 Pronouns: ela/dela
+- 🌱 Estudando no bootcamp de Desenvolvimento Web Full Stack da Driven Education 
+- 📫 Contate-me no email: annajesus.nave@gmail.com
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Anna-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
