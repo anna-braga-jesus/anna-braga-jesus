@@ -25,6 +25,7 @@ Olá!  Eu sou a Anna Carolina Braga 👋
   <img align="center" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
   <img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
 </div>
 
 
