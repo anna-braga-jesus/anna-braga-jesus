@@ -6,8 +6,13 @@
 - I'm in a career transition to the tech area
 - 📫 Contact me on email: annajesus.nave@gmail.com
 - ⚡ Curiosity: I like to learn new languages
-Below I talk more about my technical knowledge...
-  
+
+  <div>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=anna-braga-jesus&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anna-braga-jesus&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
+<br>
+
 ### Skills:
 <div style="display: inline_block"><br>
   <img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
