@@ -1,8 +1,12 @@
-Olá!  Eu sou a Anna Carolina Braga 👋
+# 👋 Hello! Welcome to my Github profile.
+## My name is Anna Carolina Braga and my nickname is "Carol"!
 
-- 😄 Pronouns: ela/dela
-- 🌱 Estudando no bootcamp de Desenvolvimento Web Full Stack da Driven Education 
-- 📫 Contate-me no email: annajesus.nave@gmail.com
+- 😄 Pronouns: She/Her
+- 🌱 Studying at Driven Education's Full Stack Web Development bootcamp
+- I'm in a career transition to the tech area
+- 📫 Contact me on email: annajesus.nave@gmail.com
+- ⚡ Curiosity: I like to learn new languages
+Below I talk more about my technical knowledge...
   
 ### Skills:
 <div style="display: inline_block"><br>
