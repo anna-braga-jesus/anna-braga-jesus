@@ -8,10 +8,15 @@
 - ⚡ Curiosity: I like to learn new languages
 
   <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=anna-braga-jesus&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anna-braga-jesus&layout=compact&langs_count=16&theme=radical"/>
+  <img align="left" width="450" height="180em" src="https://github-readme-stats.vercel.app/api?username=anna-braga-jesus&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img align="right "width="500" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anna-braga-jesus&layout=compact&langs_count=16&theme=radical"/>
 </div>
 <br>
+<h1> I'm currently learning: </h1>
+<div>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  </div>
 
 <div  align="center"> 
 <div style="display: inline_block"><br>
