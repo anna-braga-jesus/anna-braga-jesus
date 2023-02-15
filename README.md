@@ -2,7 +2,7 @@
 ## My name is Anna Carolina Braga and my nickname is "Carol"!
 
 - 😄 Pronouns: She/Her
-- 🌱 Studying at Driven Education's Full Stack Web Development bootcamp
+- 🌱 Studying at Driven Education's Full Stack Web Development 
 - I'm in a career transition to the tech area
 - 📫 Contact me on email: annajesus.nave@gmail.com
 - ⚡ Curiosity: I like to learn new languages
